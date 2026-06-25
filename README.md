@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy h4kqeotta 👋
 
-<!--
-**h4kqeotta/h4kqeotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de ciberseguridad con certificación eJPTv2.
+Apasionado por el pentesting, CTFs y la seguridad ofensiva.
 
-Here are some ideas to get you started:
+## 🎓 Certificaciones
+- ✅ eJPTv2 — eLearnSecurity / INE (2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades técnicas
+- **Pentesting**: Reconocimiento, enumeración, explotación
+- **Herramientas**: Nmap, Metasploit, Burp Suite, Gobuster
+- **Sistemas**: Linux (Kali), Windows
+- **Scripting**: Python, Bash
+
+## 📂 Proyectos y práctica
+
+| Repositorio | Descripción |
+|-------------|-------------|
+| [writeups-htb](./writeups-htb) | Máquinas resueltas en Hack The Box |
+| [writeups-ctf](./writeups-ctf) | Writeups de competencias CTF |
+| [security-scripts](./security-scripts) | Scripts y herramientas propias |
+
