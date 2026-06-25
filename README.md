@@ -4,7 +4,7 @@ Estudiante de ciberseguridad con certificación eJPTv2.
 Apasionado por el pentesting, CTFs y la seguridad ofensiva.
 
 ## 🎓 Certificaciones
-- ✅ eJPTv2 — eLearnSecurity / INE (2024)
+- ✅ eJPTv2 — eLearnSecurity / INE (2026)
 
 ## 🛠️ Habilidades técnicas
 - **Pentesting**: Reconocimiento, enumeración, explotación
@@ -17,6 +17,7 @@ Apasionado por el pentesting, CTFs y la seguridad ofensiva.
 | Repositorio | Descripción |
 |-------------|-------------|
 | [writeups-htb](./writeups-htb) | Máquinas resueltas en Hack The Box |
-| [writeups-ctf](./writeups-ctf) | Writeups de competencias CTF |
-| [security-scripts](./security-scripts) | Scripts y herramientas propias |
+| [writeups-Tryhackme](./writeups-Tryhackme) | Máquinas resueltas en Tryhackme |
+| [writeups-Dockerlabs](./writeups-Dockerlabs) | Máquinas resultas en Dockerlabs |
+| [security-scripts](./security-scripts) | Scripts y herramientas realizadas |
 
