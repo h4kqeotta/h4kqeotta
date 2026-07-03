@@ -16,8 +16,8 @@ Apasionado por el pentesting, CTFs y la seguridad ofensiva.
 
 | Repositorio | Descripción |
 |-------------|-------------|
-| [writeups-htb](./writeups-htb) | Máquinas resueltas en Hack The Box |
-| [writeups-Tryhackme](./writeups-Tryhackme) | Máquinas resueltas en Tryhackme |
-| [writeups-Dockerlabs](./writeups-Dockerlabs) | Máquinas resultas en Dockerlabs |
-| [security-scripts](./security-scripts) | Scripts y herramientas realizadas |
+| [writeups-htb](https://github.com/h4kqeotta/writeups-htb) | Máquinas resueltas en Hack The Box |
+| [writeups-Tryhackme]([/writeups-Tryhackme](https://github.com/h4kqeotta/Tryhackme)) | Máquinas resueltas en Tryhackme |
+| [writeups-Dockerlabs](https://github.com/h4kqeotta/Dockerlabs) | Máquinas resultas en Dockerlabs |
+| [security-scripts](https://github.com/h4kqeotta/Scripts-) | Scripts y herramientas realizadas |
 
