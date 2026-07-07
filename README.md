@@ -20,8 +20,10 @@
 
 <br>
 
+[![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasaaranda99@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-aranda-h4k)
+[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4kqeotta)
 
 
 <br>
@@ -85,35 +87,14 @@ Estudiante de la **Licenciatura en Cyberdefensa** en la **UNDEF**, enfocado en e
 
 ## 🚀 Proyectos Destacados
 
-<details>
-<summary><b>🔎 [Nombre del Proyecto 1]</b></summary>
-<br>
+| Repositorio | Descripción |
+|-------------|-------------|
+| [writeups-htb](https://github.com/h4kqeotta/writeups-htb) | Máquinas resueltas en Hack The Box |
+| [writeups-Tryhackme]([/writeups-Tryhackme](https://github.com/h4kqeotta/Tryhackme)) | Máquinas resueltas en Tryhackme |
+| [writeups-Dockerlabs](https://github.com/h4kqeotta/Dockerlabs) | Máquinas resultas en Dockerlabs |
+| [security-scripts](https://github.com/h4kqeotta/Scripts-) | Scripts y herramientas realizadas |
 
-Breve descripción del proyecto (ej: script de automatización de reconocimiento, lab de Active Directory, write-up de CTF, etc.).
 
-| Stack | Escala | Impacto | Repositorio |
-|---|---|---|---|
-| Python, Nmap | Personal/Lab | Automatiza fase de recon | [Ver repo](#) |
-
-Explicación profesional del proyecto: qué problema resuelve, qué aprendiste, y qué decisiones técnicas tomaste.
-
-</details>
-
-<details>
-<summary><b>🔎 [Nombre del Proyecto 2]</b></summary>
-<br>
-
-Breve descripción del proyecto.
-
-| Stack | Escala | Impacto | Repositorio |
-|---|---|---|---|
-| Bash, Metasploit | Lab/CTF | Explotación en entorno controlado | [Ver repo](#) |
-
-Explicación profesional del proyecto.
-
-</details>
-
-> 💡 *Reemplazá estos placeholders con tus proyectos reales, write-ups de CTF, o labs de HackTheBox/TryHackMe documentados.*
 
 ---
 
@@ -161,8 +142,8 @@ Formación académica orientada a la defensa cibernética, con foco práctico en
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Dockerlabs](https://img.shields.io/badge/Dockerlabs%20-%20blue?style=for-the-badge&logo=docker&logoSize=auto)
 
-> *Agregá tu perfil/ranking real cuando tengas usuarios activos en estas plataformas.*
 
 ---
 
@@ -178,13 +159,7 @@ Formación académica orientada a la defensa cibernética, con foco práctico en
 
 </div>
 
----
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=h4kqeotta&theme=radical&no-frame=true&column=7&margin-w=8)
 
 </div>
 
@@ -198,13 +173,6 @@ Formación académica orientada a la defensa cibernética, con foco práctico en
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/h4kqeotta/h4kqeotta/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -226,7 +194,6 @@ Abierto_a: ["Pasantías en Ciberseguridad", "Proyectos colaborativos de CTF", "B
 [![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasaaranda99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-aranda-h4k)
 [![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4kqeotta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 ---
 
