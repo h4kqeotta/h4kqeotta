@@ -22,8 +22,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-aranda-h4k)
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasaaranda99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h4kqeotta)
+
 
 <br>
 
