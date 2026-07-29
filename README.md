@@ -76,12 +76,12 @@ Estudiante de la **Licenciatura en Cyberdefensa** en la **UNDEF**, enfocado en e
 
 | Dominio | Nivel | Detalle |
 |---|---|---|
-| Reconnaissance & Enumeration | ⭐⭐⭐ | Nmap, Recon-ng, OSINT básico |
-| Explotación de Vulnerabilidades | ⭐⭐⭐ | Metasploit, manual exploitation |
-| Web Application Pentesting | ⭐⭐ | Burp Suite, OWASP Top 10 |
-| Redes y Protocolos | ⭐⭐⭐ | TCP/IP, análisis de tráfico con Wireshark |
-| Active Directory | ⭐⭐ | Enumeración y ataques básicos |
-| Hardening de Sistemas | ⭐⭐ | Linux/Windows security baseline |
+| Reconnaissance & Enumeration | Intermedio | Nmap, Recon-ng, OSINT básico |
+| Explotación de Vulnerabilidades | Intermedio | Metasploit, manual exploitation |
+| Web Application Pentesting | Intermedio | Burp Suite, OWASP Top 10 |
+| Redes y Protocolos | Intermedio | TCP/IP, análisis de tráfico con Wireshark |
+| Active Directory | Básico | Enumeración y ataques básicos |
+| Hardening de Sistemas | Básico | Linux/Windows security baseline |
 
 ---
 
