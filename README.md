@@ -90,7 +90,7 @@ Estudiante de la **Licenciatura en Cyberdefensa** en la **UNDEF**, enfocado en e
 | Repositorio | Descripción |
 |-------------|-------------|
 | [writeups-htb](https://github.com/h4kqeotta/writeups-htb) | Máquinas resueltas en Hack The Box |
-| [Desafios-Bandit](https://github.com/h4kqeotta/OverTheWire-Bandit-Wargame)) | Desafíos OverTheWire |
+| [Desafios-Bandit](https://github.com/h4kqeotta/OverTheWire-Bandit-Wargame) | Desafíos OverTheWire |
 | [writeups-Dockerlabs](https://github.com/h4kqeotta/Dockerlabs) | Máquinas resueltas en Dockerlabs |
 | [security-scripts](https://github.com/h4kqeotta/Scripts-) | Scripts y herramientas realizadas |
 
@@ -151,11 +151,9 @@ Formación académica orientada a la defensa cibernética, con foco práctico en
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=h4kqeotta&show_icons=true&theme=radical&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4kqeotta&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4kqeotta&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2)
 
 </div>
 
