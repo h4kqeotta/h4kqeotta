@@ -90,7 +90,7 @@ Estudiante de la **Licenciatura en Cyberdefensa** en la **UNDEF**, enfocado en e
 | Repositorio | Descripción |
 |-------------|-------------|
 | [writeups-htb](https://github.com/h4kqeotta/writeups-htb) | Máquinas resueltas en Hack The Box |
-| [writeups-Tryhackme]([/writeups-Tryhackme](https://github.com/h4kqeotta/Tryhackme)) | Máquinas resueltas en Tryhackme |
+| [Desafios-Bandit](https://github.com/h4kqeotta/OverTheWire-Bandit-Wargame)) | Desafíos OverTheWire |
 | [writeups-Dockerlabs](https://github.com/h4kqeotta/Dockerlabs) | Máquinas resueltas en Dockerlabs |
 | [security-scripts](https://github.com/h4kqeotta/Scripts-) | Scripts y herramientas realizadas |
 
